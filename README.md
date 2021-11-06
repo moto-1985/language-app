@@ -6,3 +6,5 @@
 - taiwind css 導入 jit と purge を忘れずに入れる
 - mode: "jit",
 - purge: ["./src/**/*.{js,ts,jsx,tsx}"]
+- headless UI をインストール
+- supabase のインストール
