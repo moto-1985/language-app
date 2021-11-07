@@ -8,3 +8,4 @@
 - purge: ["./src/**/*.{js,ts,jsx,tsx}"]
 - headless UI をインストール
 - supabase のインストール
+- supabase UI のインストール
